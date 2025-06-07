@@ -1,6 +1,3 @@
-# TzeMingHo.github.io
-Project website
-
 <!DOCTYPE html>
 <html>
     <head>
